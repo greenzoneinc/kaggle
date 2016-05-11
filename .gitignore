@@ -1,6 +1,5 @@
 *~
 *.pyc
 *packrat/*
-*.csv
 *.Rhistory
 *.Rprofile
